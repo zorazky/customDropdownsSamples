@@ -1,0 +1,1 @@
+collection with several dropdowns
